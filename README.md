@@ -40,5 +40,5 @@ Dalam pengembangan perangkat lunak, penggunaan cabang (branch) memungkinkan tim 
 1. **Clone Repository Ini**
 
    ```bash
-   git clone https://github.com/username/remote-branch-demo.git
-   cd remote-branch-demo
+   git clone https://github.com/svincentpeter/UAS_RemoteBranch
+   cd UAS_RemoteBranch
